@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="enter_temperature">Enter Temperature</string>
+    <string name="_0_0">0.0</string>
+    <string name="centigradetoferenite">Degree Celsius ->
+           Fahrenheit</string>
+    <string name="f2c" />
+    <string name="ferenitetocentigrade">Fahrenheit  ->
+           Degree Celsius</string>
+    <string name="submitbtn">submit</string>
+    <string name="Resetbtn">Reset</string>
+</resources>
